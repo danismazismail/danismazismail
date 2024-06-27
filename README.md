@@ -2,16 +2,16 @@
 
 ## Technologies Used
 
+### Backend
+- ![C#](https://path_to_logo/csharp_logo.png) C#
+- ![EntityFrameworkCore](https://path_to_logo/entityframeworkcore_logo.png) EntityFrameworkCore
+- ![ASP.NET](https://path_to_logo/dotnet_logo.png) ASP.NET
+
 ### Frontend
 - ![HTML](https://path_to_logo/html_logo.png) HTML
 - ![CSS](https://path_to_logo/css_logo.png) CSS
 - ![Bootstrap](https://path_to_logo/bootstrap_logo.png) Bootstrap
 - ![JavaScript](https://path_to_logo/javascript_logo.png) JavaScript
-
-### Backend
-- ![C#](https://path_to_logo/csharp_logo.png) C#
-- ![EntityFrameworkCore](https://path_to_logo/entityframeworkcore_logo.png) EntityFrameworkCore
-- ![ASP.NET](https://path_to_logo/dotnet_logo.png) ASP.NET
 
 ### Databases
 - ![MSSQL](https://path_to_logo/mssql_logo.png) MSSQL

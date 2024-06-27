@@ -1,7 +1,5 @@
 ## Hello I'm ismail 👋
 
-
-
 ## Technologies Used
 
 ### Frontend

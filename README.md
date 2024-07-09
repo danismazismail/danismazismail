@@ -30,7 +30,9 @@
       - Visual Studio<br>
       - Rider<br>
       - Git<br>
-      - GitHub
+      - GitHub<br>
+      - Postman<br>
+      - Swagger
     </td>
   </tr>
 </table>

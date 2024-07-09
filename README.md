@@ -2,29 +2,12 @@
 
 ## Technologies Used
 
-### Backend
-- C#
-- EntityFrameworkCore
-- ASP.NET
-
-### Frontend
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-
-### Databases
-- MSSQL
-- PostgreSQL
-
-### Tools
-- Visual Studio Code
-- Visual Studio
-- Git
-- GitHub
-
-
-
+### Backend                             ### Frontend                        ### Databases                       ### Tools
+- C#                                    - HTML                              - MSSQL                            - Visual Studio Code
+- EntityFrameworkCore                   - CSS                               - PostgreSQL                       - Visual Studio
+- ASP.NET                               - Bootstrap                                                            - Rider
+                                        - JavaScript                                                           - Git
+                                                                                                               - GitHub
 <!--
 **danismazismail/danismazismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

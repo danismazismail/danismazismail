@@ -1,7 +1,7 @@
-## Hello I'm ismail 👋
+## Merhaba ben ismail 👋
 
 ## Technologies Used
-<div class="container">
+<div style="display: flex; justify-content: space-around;">
 <table>
   <tr>
     <th>Backend</th>
@@ -35,6 +35,21 @@
   </tr>
 </table>
 </div>
+
+## Projeler
+- 🔭 Şu anda bu proje üzerinde çalışıyorum [EgitimPortal-BackEnd](https://github.com/danismazismail/EgitimPortal-BackEnd)
+- 🌱 Şu anda ASP.NET ve bulut bilişimde ileri düzey konuları öğreniyorum
+
+## İşbirliği
+- 👯 Açık kaynaklı projeler ve yenilikçi teknoloji çözümleri üzerinde işbirliği yapmayı düşünüyorum
+
+## İletişim
+- 📫 Ulaşmak için: [Email](mailto:danismazismail@gmail.com)
+
+## Hakkımda
+- ⚡ Yeni teknolojileri keşfetmeyi ve yazılım geliştirmedeki en son trendlerden haberdar olmayı seviyorum.
+
+
 <!--
 **danismazismail/danismazismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,16 +64,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Projects
-- 🔭 Şu anda bu proje üzerinde çalışıyorum [NorthWND-Api](https://github.com/danismazismail/EgitimPortal-BackEnd)
-- 🌱 Şu anda ASP.NET ve bulut bilişimde ileri düzey konuları öğreniyorum
-
-## Collaboration
-- 👯 Açık kaynaklı projeler ve yenilikçi teknoloji çözümleri üzerinde işbirliği yapmayı düşünüyorum
-
-## Contact
-- 📫 How to reach me: [Email](mailto:danismazismail@gmail.com)
-
-## Fun Facts
-- ⚡ Fun fact: Yeni teknolojileri keşfetmeyi ve yazılım geliştirmedeki en son trendlerden haberdar olmayı seviyorum.

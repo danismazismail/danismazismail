@@ -13,7 +13,8 @@
     <td>
       - C#<br>
       - EntityFrameworkCore<br>
-      - ASP.NET
+      - ASP.NET Core Web Api<br>
+      - ASP.NET Core Mvc
     </td>
     <td>
       - HTML<br>

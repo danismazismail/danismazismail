@@ -1,5 +1,8 @@
 ## Merhaba ben ismail 👋
 
+### HAKKIMDA
+Web geliştirme ve yazılım geliştirme yaşam döngüsünün tüm aşamalarında 2+ yıllık deneyime sahibim. Gereksinim toplama, geliştirme, test ve entegrasyon gibi süreçlerde aktif rol aldım. C#, .NET Core Web API, RESTful API, SOAP, .NET Core MVC, OOP, SOLID, Entity Framework, ve veritabanı analizi ve tasarımı konularında uzmanım. HTML, CSS, JavaScript, jQuery, AJAX, Windows Forms, ADO.NET, MSSQL, T-SQL, PostgreSQL gibi teknolojileri kullanarak etkili çözümler geliştirdim. Jira, Agile ve Scrum metodolojilerini kullanarak projelerin planlama ve yönetiminde deneyim kazandım. Yeni teknolojiler öğrenmeye ve yeteneklerimi geliştirmeye istekliyim. İyi bir takımın parçası olarak, becerilerimi daha da ileriye taşıyabileceğim yeni fırsatlara açığım.
+
 ## Technologies Used
 <div style="display: flex; justify-content: space-around;">
 <table>

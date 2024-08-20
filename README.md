@@ -40,7 +40,7 @@
 </div>
 
 ## Projeler
-- 🔭 Şu anda bu proje üzerinde çalışıyorum [EgitimPortal-BackEnd](https://github.com/danismazismail/EgitimPortal-BackEnd)
+- 🔭 Şu anda bu proje üzerinde çalışıyorum [EgitimPortalMVC](https://github.com/danismazismail/EgitimProtalMvc)
 - 🌱 Şu anda ASP.NET ve bulut bilişimde ileri düzey konuları öğreniyorum
 
 ## İşbirliği

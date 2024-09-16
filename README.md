@@ -43,7 +43,7 @@ Web geliştirme ve yazılım geliştirme yaşam döngüsünün tüm aşamaların
 </div>
 
 ## Projeler
-- 🔭 Şu anda bu proje üzerinde çalışıyorum [EgitimPortalMVC](https://github.com/danismazismail/DalKirtasiye-BackEnd)
+- 🔭 Şu anda bu proje üzerinde çalışıyorum [DalKirtasiye-BackEnd](https://github.com/danismazismail/DalKirtasiye-BackEnd)
 - 🌱 Şu anda ASP.NET ve bulut bilişimde ileri düzey konuları öğreniyorum
 
 ## İşbirliği
